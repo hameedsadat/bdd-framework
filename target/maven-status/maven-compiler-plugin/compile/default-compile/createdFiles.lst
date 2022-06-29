@@ -1,0 +1,5 @@
+core\Base.class
+pageObjects\LoginPageObjTest.class
+pageObjects\RegisterPageObjTest.class
+utilities\DriverUtility.class
+utilities\DataBaseUtility.class
