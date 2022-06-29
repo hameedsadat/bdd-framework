@@ -33,7 +33,7 @@ Feature: Title of your feature
     And yet another action
     Then I validate the outcomes
     And check more outcomes
-
+#it is for regression test only
   @tag2
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with <name>
