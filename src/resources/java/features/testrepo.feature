@@ -33,7 +33,7 @@ Feature: Title of your feature
     And yet another action
     Then I validate the outcomes
     And check more outcomes
-
+#this is both for smoke test and integration test
   @tag2
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with <name>
